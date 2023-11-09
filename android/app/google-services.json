@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "171137518707",
+    "project_id": "mechat-85e33",
+    "storage_bucket": "mechat-85e33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171137518707:android:3f7f704568b180c94b6e06",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171137518707-5v2ke6kmq9i4b1h8ffqnmf5dim09ahb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "51d61610130c9655adefaf434ff41219542d7cf5"
+          }
+        },
+        {
+          "client_id": "171137518707-4da3c5k03vcf1r27f2pvs6j3csgu4k7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIre7oyjjpYG1-PCm7ArGCddZfI63LEu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171137518707-4da3c5k03vcf1r27f2pvs6j3csgu4k7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "171137518707-a1f915i8h58u1q3m0ba98ejckh690qfa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
